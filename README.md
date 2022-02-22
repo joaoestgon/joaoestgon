@@ -1,4 +1,4 @@
-- 👋 Hi, I’m João Gonçalves
+- 👋 Hi, I’m João Gonçalves.
 - 👀 I’m interested in Cryptography, Security Technologies, Web Development and AI.
 - 🌱 I’m currently finishing my Masters Degree in Informatics Engeneering at Universidade do Minho.
 
