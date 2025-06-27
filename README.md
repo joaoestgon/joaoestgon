@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 # Hi there, I'm João Gonçalves <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 
-### Master's Student @ University of Minho | Software Engineering
+### M.Sc. in Software Engineering | University of Minho
 
-- 🔭 I’m interested in Cryptography, Security Technologies, Web Development and NLP.
+- 🔭 Currently focused on Cryptography, Security Technologies, Web Development and NLP.
 - :computer: Here you can see some of the **projects developed by me** and others **together with other colleagues**.  
 
 <!---
@@ -65,6 +65,6 @@ You can click the Preview link to take a look at your changes.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
-## Find me at :mag:
+## :mag: Find Me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joao-goncalves-pdm/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/joaoestgon)
