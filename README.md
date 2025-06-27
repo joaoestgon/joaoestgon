@@ -15,11 +15,13 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I’m interested in Cryptography, Security Technologies, Web Development and AI.
 - :computer: Here you can see some of the **projects developed by me** and others **together with other colleagues**.  
 
+<!---
 
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoestgon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+--->
 
 ## 🛠️ Tech Stack Experience
   
@@ -54,14 +56,15 @@ You can click the Preview link to take a look at your changes.
 ![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
 ### Other Tools
 ![Docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### Interests
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
-
-## Find at :mag:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joaoestgon-pdm/)
+## Find me at :mag:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joao-goncalves-pdm/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/joaoestgon)
