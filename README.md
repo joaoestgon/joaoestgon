@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 Currently focused on Cryptography, Security Technologies, Web Development and NLP.
 - :computer: Here you can see some of the **projects developed by me** and others **together with other colleagues**.
-- :smiley: Here's a dev joke to brighten your day.
+- :smiley: What about a ~~bad~~ dev joke to brighten your day?
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
