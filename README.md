@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Master's Student @ University of Minho | Software Engineering
 
-- 🔭 I’m interested in Cryptography, Security Technologies, Web Development and AI.
+- 🔭 I’m interested in Cryptography, Security Technologies, Web Development and NLP.
 - :computer: Here you can see some of the **projects developed by me** and others **together with other colleagues**.  
 
 <!---
