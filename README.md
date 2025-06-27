@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - :computer: Here you can see some of the **projects developed by me** and others **together with other colleagues**.
 - :smiley: What about a ~~dad~~ dev joke to brighten your day?
 
-![Jokes Card](https://readme-jokes.vercel.app/api&theme=dracula)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
 
 <!---
 
